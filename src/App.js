@@ -3,7 +3,7 @@ import Button from 'react-bootstrap/Button';
 import Spinner from 'react-bootstrap/Spinner'
 import './App.css';
 
-const getDogsAPI = "http://shibe.online/api/shibes?count=2&urls=true&httpsUrls=true";
+const getDogsAPI = "https://shibe.online/api/shibes?count=2&urls=true&httpsUrls=true";
 
 class App extends React.Component {
 	state = {
