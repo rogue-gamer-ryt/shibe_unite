@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/shibe_unite/static/css/main.8e9e59c6.chunk.css",
-    "main.js": "/shibe_unite/static/js/main.f9bfd787.chunk.js",
-    "main.js.map": "/shibe_unite/static/js/main.f9bfd787.chunk.js.map",
+    "main.js": "/shibe_unite/static/js/main.f2db55ff.chunk.js",
+    "main.js.map": "/shibe_unite/static/js/main.f2db55ff.chunk.js.map",
     "runtime-main.js": "/shibe_unite/static/js/runtime-main.ed39e59b.js",
     "runtime-main.js.map": "/shibe_unite/static/js/runtime-main.ed39e59b.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/shibe_unite/static/css/2.4c97ca4f.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.b992a5cd.chunk.js",
     "static/css/main.8e9e59c6.chunk.css",
-    "static/js/main.f9bfd787.chunk.js"
+    "static/js/main.f2db55ff.chunk.js"
   ]
 }
