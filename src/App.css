@@ -41,11 +41,11 @@ body {
 
 .or {
   z-index: 1;
+  color: #ff416c;
 }
 .container .or {
   background-color: rgb(24, 26, 27);
   border-radius: 50%;
-  color: #ff416c;
   display: flex;
   font-size: 1.3em;
   align-items: center;
