@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/shibe_unite/static/css/main.2f55e91e.chunk.css",
+    "main.css": "/shibe_unite/static/css/main.62b91f0c.chunk.css",
     "main.js": "/shibe_unite/static/js/main.9b3ae3f3.chunk.js",
     "main.js.map": "/shibe_unite/static/js/main.9b3ae3f3.chunk.js.map",
     "runtime-main.js": "/shibe_unite/static/js/runtime-main.ed39e59b.js",
@@ -12,14 +12,14 @@
     "static/js/3.16559402.chunk.js.map": "/shibe_unite/static/js/3.16559402.chunk.js.map",
     "index.html": "/shibe_unite/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/shibe_unite/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.2f55e91e.chunk.css.map": "/shibe_unite/static/css/main.2f55e91e.chunk.css.map",
+    "static/css/main.62b91f0c.chunk.css.map": "/shibe_unite/static/css/main.62b91f0c.chunk.css.map",
     "static/js/2.0f6ece48.chunk.js.LICENSE.txt": "/shibe_unite/static/js/2.0f6ece48.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ed39e59b.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.0f6ece48.chunk.js",
-    "static/css/main.2f55e91e.chunk.css",
+    "static/css/main.62b91f0c.chunk.css",
     "static/js/main.9b3ae3f3.chunk.js"
   ]
 }
